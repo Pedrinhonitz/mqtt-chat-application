@@ -60,7 +60,7 @@ $ make build
 # Abrir o Servidor via Terminal
 $ make start-server
 
-# Abrir o Client via Terminal. (Pode abrir quantos quiser, cada client simula 1 pessoa e 1 termina novo)
+# Abrir o Client via Terminal. (Pode abrir quantos quiser, cada client simula 1 pessoa e 1 terminal novo)
 $ make start-client
 
 # Encerrando a Execução do Projeto
